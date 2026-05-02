@@ -55,9 +55,10 @@ script.js
 
 ---
 
-## 🚀 Usage
+## 🌐 Live Demo
 
-Open `index.html` in a browser to explore the catalogue-style website.
+🔗 https://your-vercel-link.vercel.app  
+⚡ Deployed on Vercel with fast global CDN
 
 ---
 
@@ -81,4 +82,4 @@ Phone: +91 9716001595
 ## 👨‍💻 Developed By
 
 Mukul Yadav
-Frontend Developer
+Full-Stack Developer | AI Engineer
